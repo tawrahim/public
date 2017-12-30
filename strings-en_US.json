@@ -2,5 +2,6 @@
 {
   "name": "James",
   "onboarding.screen1.title": "Welcome to my house",
-  "onboarding.skipText": "Skip to my lou peace!"
+  "onboarding.skipText": "Skip to my lou peace!",
+  "onboarding.screen4.title":"Get Rewards"
 }
