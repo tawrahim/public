@@ -7,8 +7,9 @@ The `iOS` and `Android` both request strings from this repo. Doing this approach
 
 The app is very smart to know languages that are supported. If a `Locale` isn't supported, it simply requests for the default which is `strings-en_US.json`
 
-To get a string, use:
-https://cdn.rawgit.com/tawrahim/tripbuddy-public/master/strings-LOCALE-CODE.json
+To get a string in the app, use: `LOCALIZATION_BASE_PATH` + **LOCALE-CODE.json**
+
+Here is an example: https://cdn.rawgit.com/tawrahim/tripbuddy-public/master/strings-en_US.json
 
 ### Static web resources
 | File          | Variable Name  | DEV Link  | PROD Link        |
